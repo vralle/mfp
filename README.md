@@ -6,9 +6,9 @@ Magnific Popup support for phpBB
 
 ### Включает:
 
-[Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+[Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/) is a responsive jQuery lightbox plugi
 
-[yepnope.js](http://yepnopejs.com/) (ассинхронная загрузка Magnific Popup).
+[yepnope.js](http://yepnopejs.com/) is an asynchronous conditional resource loader
 
 ## Установка:
 
