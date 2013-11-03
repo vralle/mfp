@@ -8,7 +8,7 @@ Magnific Popup support for phpBB
 
 Перед тегом `</body>` добавить 
 ```<script id="mfp-loader" data-path="{ROOT_PATH}" type="text/javascript" src="{ROOT_PATH}mfp/loader.min.js"></script>```
-Максимальную ширину картинок по ссылкам можно ограничить с помощью CSS:
+Максимальную ширину картинок по ссылкам рекомендуется ограничить с помощью CSS:
 ```
 .postbody .content img, .postbody .signature img {
    vertical-align: bottom;
