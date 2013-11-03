@@ -29,6 +29,8 @@ Magnific Popup support for phpBB
 }
 ```
 
+Демо: http://forum.hw-lab.com/viewtopic.php?p=4559#p4559
+
 ## Licence
 
 MIT Licence
