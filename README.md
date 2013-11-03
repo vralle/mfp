@@ -6,8 +6,13 @@ Magnific Popup support for phpBB
 
 ## Установка:
 
+Создать папку "mfp" в корне форума и скопировать в нее содержимое архива
+
 Перед тегом `</body>` добавить 
-```<script id="mfp-loader" data-path="{ROOT_PATH}" type="text/javascript" src="{ROOT_PATH}mfp/loader.min.js"></script>```
+```
+<script id="mfp-loader" data-path="{ROOT_PATH}" type="text/javascript" src="{ROOT_PATH}mfp/loader.min.js"></script>
+```
+
 Максимальную ширину картинок по ссылкам рекомендуется ограничить с помощью CSS:
 ```
 .postbody .content img, .postbody .signature img {
