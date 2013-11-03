@@ -14,12 +14,12 @@ Magnific Popup support for phpBB
 
 Создать папку "mfp" в корне форума и скопировать в нее содержимое архива
 
-Перед тегом `</body>` добавить 
+Перед тегом `</body>` добавить:
 ```
 <script id="mfp-loader" data-path="{ROOT_PATH}" type="text/javascript" src="{ROOT_PATH}mfp/loader.min.js"></script>
 ```
 
-Максимальную ширину картинок по ссылкам рекомендуется ограничить с помощью CSS:
+Максимальную ширину картинок рекомендуется ограничить с помощью CSS:
 ```
 .postbody .content img, .postbody .signature img {
    vertical-align: bottom;
@@ -31,6 +31,6 @@ Magnific Popup support for phpBB
 
 ## Licence
 
-(The MIT Licence)
+MIT Licence
 
 Copyright (c) 2013 Vitaliy Ralle
