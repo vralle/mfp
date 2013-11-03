@@ -2,7 +2,7 @@
 
 Magnific Popup support for phpBB
 
-Плагин добавляет поддержку [Magnific Popup для phpBB](http://dimsemenov.com/plugins/magnific-popup/). Поддерживаются полноразмерные вложения и картинки с шириной более 400px (добавляется ссылка для открытия в Magnific Popup)
+Плагин добавляет поддержку [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)  для phpBB. Поддерживаются полноразмерные вложения и картинки с шириной более 400px (добавляется ссылка для открытия в Magnific Popup)
 
 ## Установка:
 
