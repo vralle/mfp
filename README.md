@@ -8,8 +8,6 @@ Magnific Popup support for phpBB
 
 [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/) is a responsive jQuery lightbox plugin
 
-[yepnope.js](http://yepnopejs.com/) is an asynchronous conditional resource loader
-
 ## Установка:
 
 Создать папку "mfp" в корне форума и скопировать в нее содержимое архива
