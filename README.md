@@ -26,11 +26,8 @@ Magnific Popup support for phpBB
    height: auto; /* сохраняем пропорции картинки */
 }
 ```
-
-Демо: http://forum.hw-lab.com/viewtopic.php?p=4559#p4559
-
 ## Licence
 
 MIT Licence
 
-Copyright (c) 2013 Vitaliy Ralle
+Copyright (c) 2013 V.Ralle
